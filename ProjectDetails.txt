@@ -1,0 +1,167 @@
+GitLens 
+
+GitHub Repository Activity Visualizer and Analytics Tool
+
+GitLens is a visualization and analytics tool designed to help developers and teams analyze GitHub repository activity in an interactive and meaningful way.
+
+Instead of manually browsing commits and files, GitLens converts repository data into visual insights, graphs, and AI-driven analytics that make it easier to understand project evolution, collaboration patterns, and code hotspots.
+
+⸻
+
+🚀 Features
+
+1. Repository Data Fetching
+
+GitLens allows users to analyze repositories in multiple ways:
+	•	GitHub Repository URL – Fetch repository data directly.
+	•	GitHub Token Support – Enables access to private repositories and bypasses API request limits.
+	•	Mock Data Mode – Allows users to explore the platform without connecting to a GitHub repository, useful for demos and testing.
+
+⸻
+
+📊 Core Features
+
+Animated Timeline
+
+The Animated Timeline provides a playable visualization of the entire project history.
+
+It displays commits over time and allows users to play, pause, or navigate through the development timeline.
+
+Benefits
+	•	Visualizes how the project evolved
+	•	Highlights periods of intense development
+	•	Shows major project milestones
+
+⸻
+
+File Hotspots
+
+File Hotspots identify files that are modified most frequently within the repository.
+
+For each file, GitLens analyzes:
+	•	Number of commits
+	•	Additions
+	•	Deletions
+	•	Modification frequency
+
+Benefits
+	•	Detects critical or unstable files
+	•	Identifies bug-prone or complex code areas
+	•	Helps prioritize code reviews and refactoring
+
+⸻
+
+Project Heat Map
+
+This feature provides a repository activity heat map, similar to GitHub’s contribution graph but focused specifically on the project.
+
+It shows daily commit activity across the repository timeline.
+
+Benefits
+	•	Identifies active development periods
+	•	Detects development patterns and sprint cycles
+	•	Helps track project productivity over time
+
+⸻
+
+👥 Contributors Analytics
+
+GitLens provides detailed insights into developer contributions and collaboration.
+
+Network Analysis
+
+Displays a developer collaboration graph showing how contributors worked together on the project.
+
+It also highlights contribution percentages for each developer.
+
+Benefits
+	•	Visualizes team collaboration
+	•	Identifies key contributors
+	•	Understands team structure
+
+⸻
+
+Activity Analysis
+
+Provides graphical analysis of developer contributions through:
+	•	Commits by Hour
+	•	Commits by Day
+	•	Commits by Month
+
+Benefits
+	•	Reveals developer work patterns
+	•	Tracks productivity trends
+	•	Helps teams understand development behavior
+
+⸻
+
+Who & When Tracking
+
+This feature shows who made specific changes and when those changes occurred.
+
+Benefits
+	•	Tracks developer activity timeline
+	•	Helps identify ownership of code changes
+	•	Improves accountability and debugging
+
+⸻
+
+Contribution Percentage
+
+Calculates the percentage share of contributions made by each developer.
+
+Benefits
+	•	Shows team participation
+	•	Highlights major contributors
+	•	Helps in project evaluation
+
+⸻
+
+🤖 AI Insights
+
+GitLens also provides AI-powered repository analysis to help teams better understand project health and collaboration patterns.
+
+Bus Factor
+
+Measures the number of developers who are critical to the project.
+
+A low bus factor indicates risk, as the project heavily depends on a few developers.
+
+⸻
+
+Hotspot Detection
+
+AI identifies files that receive frequent changes, which may indicate:
+	•	Complex code
+	•	High-risk areas
+	•	Sections needing refactoring
+
+⸻
+
+Top Pair Analysis
+
+Identifies developers who frequently work together on the same files.
+
+This helps reveal collaboration patterns within the team.
+
+⸻
+
+Repository Scan Summary
+
+Performs a complete analysis of the repository and generates summarized insights about:
+	•	Developer activity
+	•	Code change patterns
+	•	Project structure
+
+⸻
+
+🛠 Use Cases
+
+GitLens is useful for:
+	•	Software development teams
+	•	Open-source project maintainers
+	•	Project managers
+	•	Code reviewers
+	•	Research and educational projects
+
+
