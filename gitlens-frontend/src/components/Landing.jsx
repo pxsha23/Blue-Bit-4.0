@@ -1,3 +1,5 @@
+//main entry point in frontend
+
 import { useState } from 'react'
 import { loadRepo, parseRepoUrl } from '../utils/github.js'
 import { MOCK } from '../utils/mockData.js'
